@@ -41,7 +41,7 @@
     "express": "^4.16.4",
     "fs-extra": "^7.0.1",
     "json-concat": "0.0.1",
-    "jsonwebtoken": "^8.5.0",
+    "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.4.19",
     "mongoose-unique-validator": "^2.0.2",
     "navigator-node": "^0.7.41",
